@@ -1,1 +1,3 @@
-# 3BTecnologia---Scratch
+# 3BTecnologia-Scratch
+
+Equipe Marcelo
